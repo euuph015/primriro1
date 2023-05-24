@@ -1,0 +1,123 @@
+.body{
+    margin: 0;
+    padding: 0;
+}
+.p1{
+    width: 800px;
+    height: 900px;
+    background-color: burlywood;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+.a1{
+    width: 200px;
+    height: 60px;
+    background-color: rgb(197, 197, 197);
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.a2{
+    width: 200px;
+    height: 60px;
+    background-color: rgb(197, 197, 197);
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.a3{
+    width: 200px;
+    height: 60px;
+    background-color: rgb(197, 197, 197);
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.a4{
+    width: 200px;
+    height: 60px;
+    background-color: rgb(197, 197, 197);
+    align-items: center;;
+    justify-content: center;
+    display: flex;
+}
+.a5{
+    width: 390px;
+    height: 260px;
+    background-color: azure;
+    margin-left: 35px;
+}
+.a6{
+    width: 185px;
+    height: 90px;
+    background-color: rgb(199, 199, 199);
+    margin-left: 20px;
+}
+.a7{
+    width: 595px;
+    height: 90px;
+    background-color: aqua;
+    margin-left: 205px;
+}
+.a8{
+    width: 60px;
+    height: 60px;
+    background-color: rgb(211, 211, 211);
+    margin-left: 30px;
+    display: flex;
+    
+}
+.a9{
+    width: 60px;
+    height: 60px;
+    background-color: rgb(211, 211, 211);
+    margin-left: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.a10{
+    width: 60px;
+    height: 60px;
+    background-color: rgb(211, 211, 211);
+    margin-left: 30px;
+}
+.a11{
+    width: 60px;
+    height: 60px;
+    background-color: rgb(211, 211, 211);
+    margin-left: 30px;
+}
+.musica{
+    margin-left: 330PX;
+    margin-top: -50px;
+}
+.rede{
+    width: 60px;
+    height: 60px;
+    background-color: rgb(211, 211, 211);
+    
+    display: flex;
+    
+}
+.rede2{
+    width: 60px;
+    height: 60px;
+    background-color: rgb(211, 211, 211);
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.rede3{
+    width: 60px;
+    height: 60px;
+    background-color: rgb(211, 211, 211);
+   
+}
+.rede4{
+    width: 60px;
+    height: 60px;
+    background-color: rgb(211, 211, 211);
+}
